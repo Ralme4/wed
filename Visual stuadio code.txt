@@ -1,0 +1,31 @@
+HTML5
+Header
+<p>
+Comentario
+<pre>
+<blockquote>
+<b>  o <strong>
+<i>  o <em>
+<mark>
+<small>
+<del>
+<ins>
+<sub>
+<sup>
+<br>
+<a href</a>
+<img>  Alt    Width o height o ambos
+<hr>
+<map name /">
+style= o "background-color font-family text-align: center
+<table>
+<ul>
+<li>
+<ol>
+style="list-style-type”
+<dl>
+<dt>
+Formulario (Opcional)
+Mapa (Opcional)
+Video de Youtube (Opcion
+@

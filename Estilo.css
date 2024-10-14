@@ -1,0 +1,8 @@
+body{
+    margin: 1;
+    padding: 2;
+    background: url(Fotos/fondo3.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
